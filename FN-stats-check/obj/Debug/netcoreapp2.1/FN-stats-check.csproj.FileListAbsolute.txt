@@ -1,0 +1,11 @@
+/Users/matsverheyen/Projects/FN-stats-check/FN-stats-check/bin/Debug/netcoreapp2.1/FN-stats-check.deps.json
+/Users/matsverheyen/Projects/FN-stats-check/FN-stats-check/bin/Debug/netcoreapp2.1/FN-stats-check.runtimeconfig.json
+/Users/matsverheyen/Projects/FN-stats-check/FN-stats-check/bin/Debug/netcoreapp2.1/FN-stats-check.runtimeconfig.dev.json
+/Users/matsverheyen/Projects/FN-stats-check/FN-stats-check/bin/Debug/netcoreapp2.1/FN-stats-check.dll
+/Users/matsverheyen/Projects/FN-stats-check/FN-stats-check/bin/Debug/netcoreapp2.1/FN-stats-check.pdb
+/Users/matsverheyen/Projects/FN-stats-check/FN-stats-check/obj/Debug/netcoreapp2.1/FN-stats-check.csprojAssemblyReference.cache
+/Users/matsverheyen/Projects/FN-stats-check/FN-stats-check/obj/Debug/netcoreapp2.1/FN-stats-check.csproj.CoreCompileInputs.cache
+/Users/matsverheyen/Projects/FN-stats-check/FN-stats-check/obj/Debug/netcoreapp2.1/FN-stats-check.AssemblyInfoInputs.cache
+/Users/matsverheyen/Projects/FN-stats-check/FN-stats-check/obj/Debug/netcoreapp2.1/FN-stats-check.AssemblyInfo.cs
+/Users/matsverheyen/Projects/FN-stats-check/FN-stats-check/obj/Debug/netcoreapp2.1/FN-stats-check.dll
+/Users/matsverheyen/Projects/FN-stats-check/FN-stats-check/obj/Debug/netcoreapp2.1/FN-stats-check.pdb
